@@ -19,8 +19,10 @@ Local: http://localhost:5173/
 src/assets/react.svg
 src/App.css
 
-# Install Useful Starter Packages
+# Install Libraries
 npm install react-router-dom
 
+npm install tailwindcss @tailwindcss/vite tailwind-merge lucide-react
 
+npm install @radix-ui/react-toast class-variance-authority clsx
 ```
